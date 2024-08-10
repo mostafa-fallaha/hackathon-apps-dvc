@@ -2,3 +2,5 @@
     remote = apps_remote
 ['remote "apps_remote"']
     url = gdrive://13PlcoY34NljqkxxLaV_qBZ9YMgwk03xT
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = ~/Downloads/hackathon-432114-82991a41cf86.json

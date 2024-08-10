@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user123/Desktop/SEfactory/Hackathon/hackathon-apps-dvc/mlruns/0/377e6ffb02b245c0aadbd6483a7f7187/artifacts
+end_time: 1723307820983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 377e6ffb02b245c0aadbd6483a7f7187
+run_name: learned-deer-11
+run_uuid: 377e6ffb02b245c0aadbd6483a7f7187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723307811313
+status: 3
+tags: []
+user_id: user123
