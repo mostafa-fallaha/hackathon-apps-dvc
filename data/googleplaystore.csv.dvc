@@ -1,0 +1,5 @@
+outs:
+- md5: eba349a50f9d2214c21a88223208980a
+  size: 1360155
+  hash: md5
+  path: googleplaystore.csv
